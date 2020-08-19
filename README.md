@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! I'm Trevor.
+## I am a software developer from Seattle. I mostly work with Java and other JVM languages
 
 <!--
 **TrevorCow/TrevorCow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
